@@ -1,0 +1,4 @@
+rootProject.name = 'PatternFinder'
+include 'Development'
+include 'Development:Engine'
+include 'Development:Engine:EngineAPI'
